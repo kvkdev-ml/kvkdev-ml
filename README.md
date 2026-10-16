@@ -1,4 +1,4 @@
-<img src='kvk.png' alt='About me'>
+<img src='githubbanner.png' alt='About me'>
 <h1 align="center">Hi there, I'm K Vishal Kumar👋</h1>
 <h2 align='center'>Artificial Engineer</h2>
 
