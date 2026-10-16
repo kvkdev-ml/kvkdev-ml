@@ -73,7 +73,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kvkdev-ml&show_icons=true&hide_border=false&border_color=121212&border_radius=0&bg_color=FFF7ED&title_color=121212&icon_color=059669&text_color=1F2937" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvkdev-ml&layout=compact&hide_border=false&border_color=121212&border_radius=0&bg_color=EFF6FF&title_color=121212&text_color=1F2937" alt="Top Languages" width="47%" />
 </p>
 
 <p align="center">
@@ -85,15 +84,15 @@
 ### ⚡ 04 // CONNECT & COLLABORATE
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.comkvkdev-ml">
     <img src="https://img.shields.io/badge/GITHUB-FOLLOW-A7F3D0?style=for-the-badge&logo=github&logoColor=121212&labelColor=6EE7B7" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/vishal-kumar-95b269390">
     <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-BAE6FD?style=for-the-badge&logo=linkedin&logoColor=121212&labelColor=7DD3FC" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:your_email@example.com">
+  <a href="mailto:kvkwork05@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-COLLABORATE-FED7AA?style=for-the-badge&logo=gmail&logoColor=121212&labelColor=FDBA74" alt="Email" />
   </a>
 </p>
