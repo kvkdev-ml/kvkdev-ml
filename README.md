@@ -1,5 +1,5 @@
 <img src='kvk.png' alt='About me'>
-# <h1 align="center">Hi there, I'm a Backend & AI Engineer 👋</h1>
+<h1 align="center">Hi there, I'm a Backend & AI Engineer 👋</h1>
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -7,9 +7,6 @@
   </a>
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/STATUS-BUILDING_AGENTIC_SYSTEMS-BAE6FD?style=for-the-badge&logoColor=121212&labelColor=7DD3FC&color=121212" alt="Status Badge" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/OPEN_TO-2025_INTERNSHIPS-FEF08A?style=for-the-badge&logoColor=121212&labelColor=FDE047&color=121212" alt="Internship Badge" />
   </a>
 </p>
 
