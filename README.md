@@ -1,5 +1,6 @@
 <img src='kvk.png' alt='About me'>
-<h1 align="center">Hi there, I'm a Backend & AI Engineer 👋</h1>
+<h1 align="center">Hi there, I'm K Vishal Kumar👋</h1>
+<h2 align='center'>Artificial Engineer</h2>
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
