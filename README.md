@@ -1,12 +1,14 @@
 # <h1 align="center">Hi there, I'm a Backend & AI Engineer 👋</h1>
 
-
 <p align="center">
-  <a href="https://github.com/kvkdev-ml">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/FOCUS-GENERATIVE_AI_%26_BACKENDS-FFE4E6?style=for-the-badge&logoColor=121212&labelColor=FBCFE8&color=121212" alt="Focus Badge" />
   </a>
-  <a href="https://github.com/kvkdev-ml">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/STATUS-BUILDING_AGENTIC_SYSTEMS-BAE6FD?style=for-the-badge&logoColor=121212&labelColor=7DD3FC&color=121212" alt="Status Badge" />
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/OPEN_TO-2025_INTERNSHIPS-FEF08A?style=for-the-badge&logoColor=121212&labelColor=FDE047&color=121212" alt="Internship Badge" />
   </a>
 </p>
 
@@ -67,6 +69,16 @@
 
 ---
 
+### 📊 03 // GITHUB TELEMETRY & STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvkdev-ml&show_icons=true&hide_border=false&border_color=121212&border_radius=0&bg_color=FFF7ED&title_color=121212&icon_color=059669&text_color=1F2937" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kvkdev-ml&layout=compact&hide_border=false&border_color=121212&border_radius=0&bg_color=EFF6FF&title_color=121212&text_color=1F2937" alt="Top Languages" width="47%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvkdev-ml&hide_border=false&border_color=121212&border_radius=0&background=FDF4FF&fire=DB2777&ring=121212&currStreakLabel=121212&currStreakNum=121212&sideNums=121212&sideLabels=121212&dates=4B5563" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
