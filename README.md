@@ -1,10 +1,5 @@
 # <h1 align="center">Hi there, I'm a Backend & AI Engineer 👋</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&duration=3000&pause=1000&color=121212&background=A7F3D0&center=true&vCenter=true&width=680&height=55&lines=⚡+Backend+Architect+%26+Generative+AI;🧠+Autonomous+AI+Agents+%26+RAG+Systems;👁️+Real-Time+Computer+Vision+Engines;🔒+Local+LLMs+%26+MCP+Specialist" alt="Pastel Brutalist Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
