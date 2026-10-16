@@ -1,4 +1,3 @@
-<img src=''>
 # <h1 align="center">Hi there, I'm a Backend & AI Engineer 👋</h1>
 
 <p align="center">
